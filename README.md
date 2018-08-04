@@ -1,6 +1,9 @@
 # MapStory-Data-Manipulation-Library
 A Library of common and fundamental data manipulation tools that turn tables into mapstories.
 
+Think of all possible basic queries you can.
+
+
 Many of these are in separate repos, and they are linked to here.
 
 One link to start:
