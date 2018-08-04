@@ -13,4 +13,12 @@ Use Ollie Maps as an example.
 
 [give 3-5 pics]
 
+Here's a timeline:
 [simple table and end result]
+
+
+Breaking it down.
+This image might be overkill. Reduce to minimum needed.
+
+
+![Alt text](full_sequence_2.png?raw=true "Title")
